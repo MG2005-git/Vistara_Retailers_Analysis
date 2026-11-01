@@ -4,6 +4,8 @@ Vistara is a Python and MySQL data-analysis project that explores retail sales p
 
 The workflow cleans a raw transaction dataset, calculates revenue and profit, exports the processed data to MySQL, and answers a collection of business questions using SQL.
 
+![Vistara Retailers Project Architecture](Vistara End-to-End Business Analytics Flow.png)
+
 ## Key Features
 
 - Loads and explores the raw sales dataset with pandas
