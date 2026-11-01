@@ -1,4 +1,4 @@
-# Vistara Sales Analysis
+# Vistara Retailers Sales Analysis
 
 Vistara is a Python and MySQL data-analysis project that explores retail sales performance across branches, cities, product categories, payment methods, and time periods.
 
