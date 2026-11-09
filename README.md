@@ -1,10 +1,13 @@
 # Vistara Retailers Sales Analysis
 
-Vistara is a Python and MySQL data-analysis project that explores retail sales performance across branches, cities, product categories, payment methods, and time periods.
+Vistara is a Python, MySQL and Tableau data-analysis project that explores retail sales performance across branches, cities, product categories, payment methods, and time periods.
 
 The workflow cleans a raw transaction dataset, calculates revenue and profit, exports the processed data to MySQL, and answers a collection of business questions using SQL.
 
 ![Project Architecture](./project-architecture.png)
+
+
+[Visit Tableau Dashboard](https://public.tableau.com/app/profile/mayank.goyal8794/viz/vistara_dashboard/SalesPerformace)
 
 ## Key Features
 
